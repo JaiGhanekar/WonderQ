@@ -8,8 +8,9 @@ npm install
 
 
 ### Example
-npm run demo //for the demo
-npm run wonderq //for interactive cli
+*npm run demo* for the demo
+
+*npm run wonderq* for interactive cli
 
 
 ## Running the tests
