@@ -23,7 +23,6 @@ npm test
 
 * [Node.js](https://nodejs.org/en/) - The language used
 
-.
 
 ## Potential API Endpoints
 
