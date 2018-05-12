@@ -24,7 +24,7 @@ npm test
 
 .
 
-##Potential API Endpoints
+## Potential API Endpoints
 
 
 POST /wait | change the queue's wait time  
