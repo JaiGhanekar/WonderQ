@@ -57,7 +57,7 @@ POST: /messages | accepts json with producer id and creates message
 GET: /messages/{consumerid} | returns free messages to a consumer or return 
 consumer's messages
 
-POST: /acknowledge{messageid>} | accepts json with consumer id in it
+POST: /acknowledge{messageid} | accepts json with consumer id in it
 
 
 ## Scaling
