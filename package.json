@@ -1,0 +1,30 @@
+{
+  "name": "wonderq",
+  "version": "1.0.0",
+  "description": "simple queuing system",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "wonderq" : "node main.js",
+    "demo" : "node demo.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiGhanekar/WonderQ.git"
+  },
+  "author": "Jai Ghanekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaiGhanekar/WonderQ/issues"
+  },
+  "homepage": "https://github.com/JaiGhanekar/WonderQ#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "npm": "^6.0.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
