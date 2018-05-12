@@ -4,7 +4,7 @@ WonderQ - A simple queing system
 
 ## Getting Started
 
-npm install 
+*npm install*
 
 
 ### Example
@@ -28,7 +28,7 @@ npm test
 ## Potential API Endpoints
 
 
-POST /wait | change the queue's wait time  
+POST: /wait | change the queue's wait time  
 
 
 GET: /producers |  returns json array of producers
